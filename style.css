@@ -2,6 +2,7 @@
 --cor-de-fundo: #EBECEE;
 --azul: #0059ff; 
 --preto: #000000;
+--branco: #ffffff;
 }
 body{
     background-color: var(--azul);
@@ -9,4 +10,7 @@ body{
 
 h1{
     background-color: var(--preto);
+}
+h2{
+    text-decoration-color: var(--branco);
 }
